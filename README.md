@@ -19,3 +19,5 @@ Python (pandas, scikit-learn, PySpark, NetworkX, GeoPandas) · SQL · Power BI �
 ## Contact
 
 📧 matildedsantos98@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/matilde-santos-84b9421a2)
